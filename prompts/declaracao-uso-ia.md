@@ -14,6 +14,6 @@ ChatGPT GPT-5.6 Luna
 
 ## O que foi aceito, modificado ou rejeitado e por quê
 
-- **Aceito:**
+- **Aceito:** Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 - **Modificado:**
 - **Rejeitado:**
