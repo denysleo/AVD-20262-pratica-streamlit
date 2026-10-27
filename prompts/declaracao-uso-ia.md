@@ -11,6 +11,7 @@ ChatGPT GPT-5.6 Luna
 ## Prompt usado
 
 "Como resolver bloqueio de ativação do venv no powershell"
+"Altere o arquivo justificativa-metricas para a formatação correta com as métricas que eu lhe enviei"
 
 ## O que foi aceito, modificado ou rejeitado e por quê
 
